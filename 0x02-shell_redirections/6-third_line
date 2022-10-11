@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “\"(Ôo)'"
+head -3 iacta | tail -1
