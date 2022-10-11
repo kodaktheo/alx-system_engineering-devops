@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “\"(Ôo)'"
+tail --lines=1 iacta >> iacta

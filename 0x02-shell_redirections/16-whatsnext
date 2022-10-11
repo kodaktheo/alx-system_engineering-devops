@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “\"(Ôo)'"
+grep -iA 3 "root" /etc/passwd
